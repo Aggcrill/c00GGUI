@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/cy4nkidd/scripts/main/cy4ngui.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Aggcrill/c00GGUI/main/c00GGUI'))()
 
 restorebutton = Instance.new("ScreenGui",game:GetService("CoreGui"))
 
@@ -18,7 +18,7 @@ b03d.Font = "SourceSans"
 
 b03d.FontSize = "Size18"
 
-b03d.Text = "Reload c00GGui"
+b03d.Text = "Reload c00GKitty"
 
 b03d.TextColor3 = Color3.new(255/255,255/255,255/255)
 
@@ -30,7 +30,7 @@ game.Players.LocalPlayer.PlayerGui:FindFirstChild("c00GKitty"):Remove()
 
 end	
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/cy4nkidd/scripts/main/cy4ngui.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Aggcrill/c00GGUI/main/c00GGUI'))()
 
 end)
 
